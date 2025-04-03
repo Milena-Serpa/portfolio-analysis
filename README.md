@@ -5,4 +5,4 @@ In this repository you will find the requirements analysis of the TODO MVC react
 
 - Prototype [TODO MVC](https://todomvc.com/examples/react/dist/)
 
-![Home Site TODO](img\site_todo_mvc.png)
+![Home Site TODO](img/site_todo_mvc.png)
